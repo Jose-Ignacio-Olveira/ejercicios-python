@@ -1,4 +1,4 @@
-import sys
+import sys #ta re piola ete juego
 import random
 from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QGridLayout, QWidget, QLabel, QMessageBox
 from PyQt6.QtCore import QTimer, Qt
